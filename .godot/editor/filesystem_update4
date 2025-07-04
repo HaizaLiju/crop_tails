@@ -1,7 +1,13 @@
-res://scenes/characters/player/player.tscn
-res://Tilesets/game_tile_set.tres
 res://scenes/test/test_scene_tilemap.tscn
-res://scenes/test/test_scene_default.tscn
+res://Tilesets/game_tile_set.tres
 res://scenes/test/test_scene_player.tscn
+res://scenes/characters/player/player.tscn
+res://scripts/game_input_events.gd
 res://scenes/characters/player/idle_state.gd
+res://scenes/characters/player/walk_state.gd
 res://scripts/state_machine/node_state_machine.gd
+res://scenes/characters/player/player.gd
+res://scenes/characters/player/tilling_state.gd
+res://scripts/globals/data_types.gd
+res://scenes/characters/player/chopping_state.gd
+res://scenes/characters/player/watering_state.gd

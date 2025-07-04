@@ -1,5 +1,4 @@
-class_name NodeStateMachine
-extends Node
+extends NodeState
 
 @export var initial_node_state : NodeState
 
@@ -27,6 +26,7 @@ func _physics_process(delta: float) -> void:
 	if current_node_state:
 		current_node_state._on_physics_process(delta)
 		current_node_state._on_next_transitions()
+		print("Current State: ", current_node_state_name)
 
 
 func transition_to(node_state_name : String) -> void:
