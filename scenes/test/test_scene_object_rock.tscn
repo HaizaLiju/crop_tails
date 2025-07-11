@@ -24,3 +24,4 @@ tile_set = ExtResource("1_fbn05")
 position = Vector2(191, 124)
 
 [node name="Camera2D" type="Camera2D" parent="Player"]
+texture_filter = 1
