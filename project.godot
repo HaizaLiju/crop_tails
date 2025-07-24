@@ -26,6 +26,7 @@ window/canvas_textures/default_texture_filter=1
 
 folder_colors={
 "res://Tilesets/": "purple",
+"res://addons/": "gray",
 "res://assets/": "green",
 "res://scenes/": "orange",
 "res://scripts/": "blue"

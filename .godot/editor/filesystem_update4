@@ -1,9 +1,4 @@
-res://scenes/test/test_scene_npc_navigation.tscn
+res://scenes/characters/cow/cow.tscn
 res://Tilesets/house_tile_set.tres
 res://scenes/objects/shake.gdshader
 res://Tilesets/game_tile_set.tres
-res://scenes/characters/chicken/chicken.tscn
-res://scenes/characters/npc_state/walk_state.gd
-res://scenes/characters/cow/cow.tscn
-res://scenes/test/test_scene_npc_cow.tscn
-res://scenes/characters/cow/cow.gd
